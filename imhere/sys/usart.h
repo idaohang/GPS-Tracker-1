@@ -8,6 +8,7 @@
 #define USART_H__
 
 #include "global.h"
+#include "stm32f10x_usart.h"
 
 enum {
   kUsartGps,
@@ -22,6 +23,8 @@ enum { USART_RX_TERM_LEN = 4 };
 struct Usart {
   int   port;
   char  name[USART_PORT_NAME_LEN];
+
+  USART_TypeDef *usart;
 
   char  rx_buffers[USART_RX_BUF_N][USART_RX_BUF_SIZE];    // Rx 버퍼(링버퍼)
   char  rx_done[USART_RX_BUF_N];

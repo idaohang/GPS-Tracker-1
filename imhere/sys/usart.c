@@ -108,7 +108,6 @@ static int pull_buffer(struct Usart *usart, char *buffer, int size)
     }
 
     usart->rx_done[usart->rx_rbuf_id] = 0;
-//    set_next_read_buffer(usart);
 
     return n;
   }
@@ -123,23 +122,26 @@ static int pull_buffer(struct Usart *usart, char *buffer, int size)
 struct Usart* usart_ready(int port)
 {
   struct Usart  *usart;
-  char  name[4];
-
-  usart = (struct Usart*)calloc(1, sizeof(struct Usart));
+  USART_TypeDef *get_usart;
+  char  name[USART_PORT_NAME_LEN];
 
   switch (port) {
   case kUsartGps:
+    get_usart = USART2;
     strcpy(name, "GPS");
     break;
   case kUsartBluetooth:
+    get_usart = USART3;
     strcpy(name, "BT");
     break;
   default:
-    free(usart);
     return NULL;
   }
 
-  usart->port = port;
+  usart = (struct Usart*)calloc(1, sizeof(struct Usart));
+
+  usart->port  = port;
+  usart->usart = get_usart;
   strcpy(usart->name, name);
 
   usart->PushChar   = push_char;

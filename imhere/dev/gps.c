@@ -51,7 +51,7 @@ static int parser_vender(struct DevGps *gps)
   return 0;
 }
 
-static int get_data(struct DevGps *gps)
+static int update_data(struct DevGps *gps)
 {
   memset(gps->rx_buffer, 0, GPS_RX_BUF_SIZE);
   gps->rx_len = gps->usart->PullBuffer(gps->usart, gps->rx_buffer, GPS_RX_BUF_SIZE);
@@ -59,7 +59,7 @@ static int get_data(struct DevGps *gps)
   return gps->rx_len;
 }
 
-static int parser(struct DevGps *gps)
+static int process_data(struct DevGps *gps)
 {
   printlog("%s", gps->rx_buffer);
 
@@ -102,8 +102,8 @@ struct DevGps* gps_ready()
   gps->usart = usart_ready(kUsartGps);
   usart_set_rxterm(gps->usart, "\r\n");
 
-  gps->GetData = get_data;
-  gps->Parser  = parser;
+  gps->UpdateData  = update_data;
+  gps->ProcessData = process_data;
 
   return gps;
 }

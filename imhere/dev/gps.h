@@ -27,8 +27,8 @@ struct DevGps {
   uint8_t   fixed;      // 1[GPS fixed], 0[not fixed]
   uint8_t   used_sat;   // fixed satellite
 
-  int (*GetData)(struct DevGps *gps);
-  int (*Parser)(struct DevGps *gps);
+  int (*UpdateData)(struct DevGps *gps);
+  int (*ProcessData)(struct DevGps *gps);
 };
 
 extern struct DevGps* gps_ready();

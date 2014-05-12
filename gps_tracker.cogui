@@ -22,69 +22,89 @@
 <part id="7"/>
 <part id="8"/>
 <part id="9"/>
+<part id="10"/>
+<part id="11"/>
 </presentation>
 </folder>
 </info>
 </editorArea>
-<editor id="org.eclipse.cdt.ui.editor.CEditor" name="main.c" partName="main.c" path="D:/home/DaumCloud/CnM/GPS_tracker/source/main.c" title="main.c" tooltip="D:/home/DaumCloud/CnM/GPS_tracker/source/main.c" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/gps_tracker/main.c"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="309" selectionTopPixel="0"/>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="stm32f10x.h" partName="stm32f10x.h" path="D:/home/hobby/GPS_tracker/src/cmsis_boot/stm32f10x.h" title="stm32f10x.h" tooltip="D:/home/hobby/GPS_tracker/src/cmsis_boot/stm32f10x.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/gps_tracker/cmsis_boot/stm32f10x.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="13" selectionOffset="59770" selectionTopPixel="20730"/>
 </editor>
-<editor id="org.eclipse.cdt.ui.editor.CEditor" name="gps.h" partName="gps.h" path="D:/home/DaumCloud/CnM/GPS_tracker/source/imhere/dev/gps.h" title="gps.h" tooltip="D:/home/DaumCloud/CnM/GPS_tracker/source/imhere/dev/gps.h" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/gps_tracker/imhere/dev/gps.h"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="839" selectionTopPixel="0"/>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="i2c.c" partName="i2c.c" path="D:/home/hobby/GPS_tracker/src/imhere/sys/i2c.c" title="i2c.c" tooltip="D:/home/hobby/GPS_tracker/src/imhere/sys/i2c.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/gps_tracker/imhere/sys/i2c.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="2656" selectionTopPixel="1158"/>
 </editor>
-<editor id="org.eclipse.cdt.ui.editor.CEditor" name="gps.c" partName="gps.c" path="D:/home/DaumCloud/CnM/GPS_tracker/source/imhere/dev/gps.c" title="gps.c" tooltip="D:/home/DaumCloud/CnM/GPS_tracker/source/imhere/dev/gps.c" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/gps_tracker/imhere/dev/gps.c"/>
-<editorState selectionHorizontalPixel="0" selectionLength="10" selectionOffset="950" selectionTopPixel="589"/>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="stm32f10x_i2c.h" partName="stm32f10x_i2c.h" path="D:/home/hobby/GPS_tracker/src/stm_lib/inc/stm32f10x_i2c.h" title="stm32f10x_i2c.h" tooltip="D:/home/hobby/GPS_tracker/src/stm_lib/inc/stm32f10x_i2c.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/gps_tracker/stm_lib/inc/stm32f10x_i2c.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="24" selectionOffset="1317" selectionTopPixel="0"/>
 </editor>
-<editor id="org.eclipse.cdt.ui.editor.CEditor" name="gps_parser.h" partName="gps_parser.h" path="D:/home/DaumCloud/CnM/GPS_tracker/source/imhere/data/gps_parser.h" title="gps_parser.h" tooltip="D:/home/DaumCloud/CnM/GPS_tracker/source/imhere/data/gps_parser.h" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/gps_tracker/imhere/data/gps_parser.h"/>
-<editorState selectionHorizontalPixel="0" selectionLength="7" selectionOffset="750" selectionTopPixel="424"/>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="i2c.h" partName="i2c.h" path="D:/home/hobby/GPS_tracker/src/imhere/sys/i2c.h" title="i2c.h" tooltip="D:/home/hobby/GPS_tracker/src/imhere/sys/i2c.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/gps_tracker/imhere/sys/i2c.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="4" selectionOffset="331" selectionTopPixel="0"/>
 </editor>
-<editor id="org.eclipse.cdt.ui.editor.CEditor" name="gps_parser.c" partName="gps_parser.c" path="D:/home/DaumCloud/CnM/GPS_tracker/source/imhere/data/gps_parser.c" title="gps_parser.c" tooltip="D:/home/DaumCloud/CnM/GPS_tracker/source/imhere/data/gps_parser.c" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/gps_tracker/imhere/data/gps_parser.c"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1575" selectionTopPixel="890"/>
-</editor>
-<editor id="org.eclipse.cdt.ui.editor.CEditor" name="usart.h" partName="usart.h" path="D:/home/DaumCloud/CnM/GPS_tracker/source/imhere/sys/usart.h" title="usart.h" tooltip="D:/home/DaumCloud/CnM/GPS_tracker/source/imhere/sys/usart.h" workbook="DefaultEditorWorkbook">
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="usart.h" partName="usart.h" path="D:/home/hobby/GPS_tracker/src/imhere/sys/usart.h" title="usart.h" tooltip="D:/home/hobby/GPS_tracker/src/imhere/sys/usart.h" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/gps_tracker/imhere/sys/usart.h"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1201" selectionTopPixel="0"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="519" selectionTopPixel="153"/>
 </editor>
-<editor id="org.eclipse.cdt.ui.editor.CEditor" name="inthandler.c" partName="inthandler.c" path="D:/home/DaumCloud/CnM/GPS_tracker/source/imhere/sys/inthandler.c" title="inthandler.c" tooltip="D:/home/DaumCloud/CnM/GPS_tracker/source/imhere/sys/inthandler.c" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/gps_tracker/imhere/sys/inthandler.c"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="647" selectionTopPixel="0"/>
-</editor>
-<editor activePart="true" focus="true" id="org.eclipse.cdt.ui.editor.CEditor" name="usart.c" partName="usart.c" path="D:/home/DaumCloud/CnM/GPS_tracker/source/imhere/sys/usart.c" title="usart.c" tooltip="D:/home/DaumCloud/CnM/GPS_tracker/source/imhere/sys/usart.c" workbook="DefaultEditorWorkbook">
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="usart.c" partName="usart.c" path="D:/home/hobby/GPS_tracker/src/imhere/sys/usart.c" title="usart.c" tooltip="D:/home/hobby/GPS_tracker/src/imhere/sys/usart.c" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/gps_tracker/imhere/sys/usart.c"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1721" selectionTopPixel="855"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="2431" selectionTopPixel="1695"/>
 </editor>
-<editor id="org.eclipse.cdt.ui.editor.CEditor" name="main.c" partName="main.c" path="D:/home/DaumCloud/CnM/GPS_tracker/source/main.c" title="main.c" tooltip="D:/home/DaumCloud/CnM/GPS_tracker/source/main.c" workbook="DefaultEditorWorkbook">
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="main.c" partName="main.c" path="D:/home/hobby/GPS_tracker/src/main.c" title="main.c" tooltip="D:/home/hobby/GPS_tracker/src/main.c" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/gps_tracker/main.c"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="494" selectionTopPixel="0"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="378" selectionTopPixel="63"/>
 </editor>
-<editor id="org.eclipse.cdt.ui.editor.CEditor" name="dev.c" partName="dev.c" path="D:/home/DaumCloud/CnM/GPS_tracker/source/imhere/dev/dev.c" title="dev.c" tooltip="D:/home/DaumCloud/CnM/GPS_tracker/source/imhere/dev/dev.c" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/gps_tracker/imhere/dev/dev.c"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="271" selectionTopPixel="0"/>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="gps.h" partName="gps.h" path="D:/home/hobby/GPS_tracker/src/imhere/dev/gps.h" title="gps.h" tooltip="D:/home/hobby/GPS_tracker/src/imhere/dev/gps.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/gps_tracker/imhere/dev/gps.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="10" selectionOffset="772" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="gps.c" partName="gps.c" path="D:/home/hobby/GPS_tracker/src/imhere/dev/gps.c" title="gps.c" tooltip="D:/home/hobby/GPS_tracker/src/imhere/dev/gps.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/gps_tracker/imhere/dev/gps.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="2247" selectionTopPixel="1173"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="compass.c" partName="compass.c" path="D:/home/hobby/GPS_tracker/src/imhere/dev/compass.c" title="compass.c" tooltip="D:/home/hobby/GPS_tracker/src/imhere/dev/compass.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/gps_tracker/imhere/dev/compass.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1044" selectionTopPixel="525"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="sysinit.c" partName="sysinit.c" path="D:/home/hobby/GPS_tracker/src/imhere/sys/sysinit.c" title="sysinit.c" tooltip="D:/home/hobby/GPS_tracker/src/imhere/sys/sysinit.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/gps_tracker/imhere/sys/sysinit.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="5426" selectionTopPixel="2373"/>
+</editor>
+<editor activePart="true" focus="true" id="org.eclipse.cdt.ui.editor.CEditor" name="gps_parser.c" partName="gps_parser.c" path="D:/home/hobby/GPS_tracker/src/imhere/data/gps_parser.c" title="gps_parser.c" tooltip="D:/home/hobby/GPS_tracker/src/imhere/data/gps_parser.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/gps_tracker/imhere/data/gps_parser.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1570" selectionTopPixel="960"/>
 </editor>
 </editors>
 <views>
 <view id="org.coocox.builder.ui.views.ProjectView" partName="Project">
-<viewState CommonNavigator.LINKING_ENABLED="0" horizontalPosition="0" org.eclipse.ui.navigator.resources.workingSets.showTopLevelWorkingSets="0" verticalPosition="0">
+<viewState CommonNavigator.LINKING_ENABLED="0" horizontalPosition="0" org.eclipse.ui.navigator.resources.workingSets.showTopLevelWorkingSets="0" verticalPosition="6">
 <expanded>
 <element path="/gps_tracker"/>
 <element path="/gps_tracker/imhere"/>
 <element path="/gps_tracker/imhere/data"/>
 <element path="/gps_tracker/imhere/dev"/>
 <element path="/gps_tracker/imhere/sys"/>
-<element path="/gps_tracker/stdio"/>
 </expanded>
 <selection>
-<element path="/gps_tracker/imhere/sys/usart.c"/>
+<element path="/gps_tracker/imhere/sys/sysinit.c"/>
 </selection>
 </viewState>
 </view>
 <view id="org.coocox.component.ui.ComponentView" partName="Components">
 <viewState/>
+</view>
+<view id="org.eclipse.search.ui.views.SearchView" partName="Search">
+<viewState isPinned="false">
+<view IMemento.internal.id="org.eclipse.cdt.ui.pdomSearchViewPage" definitionColumnWidth="150" locationColumnWidth="300" matchColumnWidth="300" org.eclipse.search.lastActivation="1" org.eclipse.search.resultpage.layout="2" showEnclosingDefinitions="true"/>
+<view IMemento.internal.id="" org.eclipse.search.lastActivation="0"/>
+</viewState>
+</view>
+<view id="org.coocox.builder.ui.exampleView" partName="I2C Examples">
+<viewState>
+<Examples ComponentId="453" Title="I2C"/>
+</viewState>
 </view>
 <view id="org.coocox.codebugger.trace.ui.traceview" partName="Semihosting">
 <viewState/>
@@ -136,6 +156,8 @@
 <view id="org.coocox.builder.ui.views.ProjectView"/>
 <view id="org.coocox.component.ui.Help"/>
 <view id="org.eclipse.ui.console.ConsoleView"/>
+<view id="org.eclipse.search.ui.views.SearchView"/>
+<view id="org.coocox.builder.ui.exampleView"/>
 <fastViewBars/>
 <layout>
 <mainWindow>
@@ -156,13 +178,22 @@
 <info folder="true" part="org.eclipse.ui.internal.ViewStack@1342424" ratio="0.7795527" ratioLeft="732" ratioRight="207" relationship="4" relative="org.eclipse.ui.internal.ViewStack@1e073ef">
 <folder activePageID="org.eclipse.ui.console.ConsoleView" appearance="2" expanded="2">
 <page content="org.eclipse.ui.console.ConsoleView" label="Console"/>
+<page content="org.eclipse.search.ui.views.SearchView" label="Search"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@632ab0" ratio="0.16972236" ratioLeft="324" ratioRight="1585" relationship="2" relative="org.eclipse.ui.internal.ViewStack@1e073ef">
+<folder activePageID="org.coocox.builder.ui.exampleView" appearance="2" expanded="2">
+<page content="org.coocox.builder.ui.exampleView" label="I2C Examples"/>
 <presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
 <part id="0"/>
 </presentation>
 </folder>
 </info>
-<info part="org.coocox.builder.ui.exampleView" ratio="0.16972236" ratioLeft="324" ratioRight="1585" relationship="2" relative="org.eclipse.ui.internal.ViewStack@1e073ef"/>
-<info folder="true" part="org.eclipse.ui.internal.ViewStack@17f4ebd" ratio="0.71983916" ratioLeft="1074" ratioRight="418" relationship="2" relative="org.coocox.builder.ui.exampleView">
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@17f4ebd" ratio="0.71983916" ratioLeft="1074" ratioRight="418" relationship="2" relative="org.eclipse.ui.internal.ViewStack@632ab0">
 <folder activePageID="org.coocox.component.ui.Help" appearance="2" expanded="2">
 <page content="org.coocox.component.ui.Help" label="Help"/>
 <page content="org.eclipse.debug.ui.BreakpointView" label="LabelNotFound"/>
@@ -174,7 +205,7 @@
 </presentation>
 </folder>
 </info>
-<info part="org.eclipse.ui.editorss" ratio="0.4490446" ratioLeft="423" ratioRight="519" relationship="4" relative="org.coocox.builder.ui.exampleView"/>
+<info part="org.eclipse.ui.editorss" ratio="0.17969821" ratioLeft="131" ratioRight="598" relationship="4" relative="org.eclipse.ui.internal.ViewStack@632ab0"/>
 <info folder="true" part="org.eclipse.ui.internal.ViewStack@db5c28" ratio="0.36942676" ratioLeft="348" ratioRight="594" relationship="4" relative="org.eclipse.ui.internal.ViewStack@1e073ef">
 <folder activePageID="org.coocox.builder.ui.views.ProjectView" appearance="2" expanded="2">
 <page content="org.coocox.builder.ui.views.ProjectView" label="Project"/>
@@ -237,49 +268,34 @@
 <view id="org.coocox.builder.ui.views.ProjectView"/>
 <fastViewBars/>
 <viewLayoutRec closeable="false" id="org.eclipse.debug.ui.DebugView"/>
-<layout>
-<mainWindow>
-<info folder="true" part="org.eclipse.ui.internal.ViewStack@1dcca35">
-<folder activePageID="org.coocox.builder.ui.views.ProjectView" appearance="2" expanded="2">
-<page content="org.coocox.builder.ui.views.ProjectView" label="Project"/>
-<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
-<part id="0"/>
+<layout>&#x0A;<mainWindow>&#x0A;<info folder="true" part="org.eclipse.ui.internal.ViewStack@1dcca35">&#x0A;<folder activePageID="org.coocox.builder.ui.views.ProjectView" appearance="2" expanded="2">&#x0A;<page content="org.coocox.builder.ui.views.ProjectView" label="Project"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
 </presentation>
 </folder>
 </info>
-<info folder="true" part="stickyFolderRight" ratio="0.75" ratioLeft="1434" ratioRight="478" relationship="2" relative="org.eclipse.ui.internal.ViewStack@1dcca35">
-<folder appearance="2" expanded="2">
-<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<info folder="true" part="stickyFolderRight" ratio="0.75" ratioLeft="1434" ratioRight="478" relationship="2" relative="org.eclipse.ui.internal.ViewStack@1dcca35">&#x0A;<folder appearance="2" expanded="2">&#x0A;<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
 <page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
 </folder>
 </info>
-<info folder="true" part="org.eclipse.ui.internal.ViewStack@1bb628b" ratio="0.69959265" ratioLeft="687" ratioRight="295" relationship="4" relative="org.eclipse.ui.internal.ViewStack@1dcca35">
-<folder activePageID="org.eclipse.debug.ui.DebugView" appearance="2" expanded="2">
-<page content="org.eclipse.ui.console.ConsoleView" label="Console"/>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@1bb628b" ratio="0.69959265" ratioLeft="687" ratioRight="295" relationship="4" relative="org.eclipse.ui.internal.ViewStack@1dcca35">&#x0A;<folder activePageID="org.eclipse.debug.ui.DebugView" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.ui.console.ConsoleView" label="Console"/>
 <page content="org.eclipse.debug.ui.DebugView" label="Debug"/>
 <page content="org.eclipse.debug.ui.BreakpointView" label="LabelNotFound"/>
-<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
-<part id="0"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
 <part id="1"/>
 </presentation>
 </folder>
 </info>
-<info folder="true" part="org.eclipse.ui.internal.ViewStack@1272ec0" ratio="0.5" ratioLeft="956" ratioRight="956" relationship="2" relative="org.eclipse.ui.internal.ViewStack@1bb628b">
-<folder activePageID="org.eclipse.debug.ui.VariableView" appearance="2" expanded="2">
-<page content="org.coocox.codebugger.trace.ui.traceview" label="Semihosting"/>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@1272ec0" ratio="0.5" ratioLeft="956" ratioRight="956" relationship="2" relative="org.eclipse.ui.internal.ViewStack@1bb628b">&#x0A;<folder activePageID="org.eclipse.debug.ui.VariableView" appearance="2" expanded="2">&#x0A;<page content="org.coocox.codebugger.trace.ui.traceview" label="Semihosting"/>
 <page content="org.eclipse.debug.ui.VariableView" label="Variables"/>
 <page content="org.eclipse.debug.ui.ExpressionView" label="LabelNotFound"/>
 <page content="org.eclipse.debug.ui.MemoryView" label="LabelNotFound"/>
 <page content="org.eclipse.cdt.debug.ui.memory.memorybrowser.MemoryBrowser" label="LabelNotFound"/>
-<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
-<part id="0"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
 <part id="1"/>
 </presentation>
 </folder>
 </info>
-<info folder="true" part="org.eclipse.ui.internal.ViewStack@16e7949" ratio="0.75" ratioLeft="1434" ratioRight="478" relationship="2" relative="org.eclipse.ui.internal.ViewStack@1dcca35">
-<folder appearance="2" expanded="2">
-<page content="org.eclipse.cdt.dsf.debug.ui.disassembly.view" label="LabelNotFound"/>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@16e7949" ratio="0.75" ratioLeft="1434" ratioRight="478" relationship="2" relative="org.eclipse.ui.internal.ViewStack@1dcca35">&#x0A;<folder appearance="2" expanded="2">&#x0A;<page content="org.eclipse.cdt.dsf.debug.ui.disassembly.view" label="LabelNotFound"/>
 <page content="org.eclipse.ui.views.ContentOutline" label="LabelNotFound"/>
 <page content="org.eclipse.debug.ui.RegisterView" label="LabelNotFound"/>
 <page content="org.coocox.coassistant.view.CoAssistantView_debug" label="LabelNotFound"/>
@@ -294,167 +310,169 @@
 <workingSets/>
 <navigationHistory>
 <editors>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/gps_tracker/imhere/sys/i2c.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/gps_tracker/imhere/sys/i2c.h"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/gps_tracker/main.c"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/gps_tracker/imhere/dev/gps.c"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/gps_tracker/imhere/data/gps_parser.h"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/gps_tracker/imhere/data/gps_parser.c"/>
-<editor factoryID="org.eclipse.cdt.ui.ExternalEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="C:\GNU Tools ARM Embedded\4.8 2014q1\arm-none-eabi\include\ctype.h" project="gps_tracker"/>
-<editor factoryID="org.coocox.builder.ui.persistent.PersistentElementFactory" id="org.coocox.builder.ui.editors.ConfigEditor">
-<org.coocox.builder.ui.editors.ConfigEditor/>
-</editor>
-<editor factoryID="org.coocox.builder.ui.persistent.PersistentElementFactory" id="org.coocox.builder.ui.editors.ConfigEditor">
-<org.coocox.builder.ui.editors.ConfigEditor/>
-</editor>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/gps_tracker/imhere/dev/compass.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/gps_tracker/imhere/sys/usart.h"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/gps_tracker/cmsis_boot/stm32f10x.h"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/gps_tracker/imhere/sys/sysinit.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/gps_tracker/stm_lib/inc/stm32f10x_i2c.h"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/gps_tracker/imhere/sys/inthandler.c"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/gps_tracker/imhere/sys/usart.c"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/gps_tracker/cmsis_boot/startup/startup_stm32f10x_md.c"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/gps_tracker/main.c"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/gps_tracker/imhere/dev/dev.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/gps_tracker/imhere/dev/gps.h"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/gps_tracker/imhere/data/gps_parser.c"/>
 </editors>
-<item historyLabel="ctype.h" index="3">
-<position info="not_deleted" x="1799" y="7"/>
+<item historyLabel="inthandler.c" index="9">
+<position info="not_deleted" x="740" y="0"/>
 </item>
-<item historyLabel="gps_parser.c" index="2">
-<position info="not_deleted" x="1543" y="0"/>
+<item historyLabel="stm32f10x.h" index="6">
+<position info="not_deleted" x="59982" y="57"/>
 </item>
-<item historyLabel="ctype.h" index="3">
-<position info="not_deleted" x="2861" y="7"/>
+<item historyLabel="stm32f10x.h" index="6">
+<position info="not_deleted" x="60700" y="0"/>
 </item>
-<item historyLabel="gps_parser.c" index="2">
-<position info="not_deleted" x="1543" y="0"/>
+<item historyLabel="stm32f10x.h" index="6">
+<position info="not_deleted" x="59982" y="57"/>
 </item>
-<item historyLabel="gps_parser.c" index="2">
-<position info="not_deleted" x="2025" y="56"/>
+<item historyLabel="i2c.c" index="0">
+<position info="not_deleted" x="157" y="18"/>
 </item>
-<item historyLabel="gps_parser.c" index="2">
-<position info="not_deleted" x="2366" y="0"/>
+<item historyLabel="stm32f10x.h" index="6">
+<position info="not_deleted" x="59982" y="57"/>
 </item>
-<item historyLabel="Configuration" index="4"/>
-<item historyLabel="gps_parser.c" index="2">
-<position info="not_deleted" x="1527" y="0"/>
+<item historyLabel="stm32f10x_i2c.h" index="8">
+<position info="not_deleted" x="1317" y="24"/>
 </item>
-<item historyLabel="gps_parser.h" index="1">
-<position info="not_deleted" x="750" y="7"/>
+<item historyLabel="i2c.c" index="0">
+<position info="not_deleted" x="767" y="0"/>
 </item>
-<item historyLabel="gps_parser.c" index="2">
-<position info="not_deleted" x="1515" y="57"/>
+<item historyLabel="stm32f10x.h" index="6">
+<position info="not_deleted" x="59982" y="57"/>
 </item>
-<item historyLabel="gps_parser.c" index="2">
-<position info="not_deleted" x="2025" y="56"/>
+<item historyLabel="i2c.c" index="0">
+<position info="not_deleted" x="157" y="18"/>
 </item>
-<item historyLabel="gps_parser.c" index="2">
-<position info="not_deleted" x="1575" y="0"/>
+<item historyLabel="stm32f10x.h" index="6">
+<position info="not_deleted" x="59982" y="57"/>
 </item>
-<item historyLabel="gps.c" index="0">
+<item historyLabel="i2c.h" index="1">
+<position info="not_deleted" x="328" y="0"/>
+</item>
+<item historyLabel="stm32f10x.h" index="6">
+<position info="not_deleted" x="59848" y="11"/>
+</item>
+<item historyLabel="i2c.h" index="1">
+<position info="not_deleted" x="265" y="0"/>
+</item>
+<item historyLabel="i2c.c" index="0">
+<position info="not_deleted" x="360" y="0"/>
+</item>
+<item historyLabel="i2c.h" index="1">
+<position info="not_deleted" x="407" y="0"/>
+</item>
+<item historyLabel="usart.h" index="5">
+<position info="not_deleted" x="1099" y="0"/>
+</item>
+<item historyLabel="usart.c" index="10">
+<position info="not_deleted" x="2363" y="11"/>
+</item>
+<item historyLabel="main.c" index="2">
+<position info="not_deleted" x="378" y="0"/>
+</item>
+<item historyLabel="gps.h" index="11">
+<position info="not_deleted" x="772" y="10"/>
+</item>
+<item historyLabel="gps.c" index="3">
+<position info="not_deleted" x="2247" y="0"/>
+</item>
+<item historyLabel="usart.c" index="10">
+<position info="not_deleted" x="2363" y="11"/>
+</item>
+<item historyLabel="usart.c" index="10">
+<position/>
+</item>
+<item historyLabel="usart.c" index="10">
+<position info="not_deleted" x="2450" y="0"/>
+</item>
+<item historyLabel="i2c.h" index="1">
+<position info="not_deleted" x="407" y="0"/>
+</item>
+<item historyLabel="i2c.c" index="0">
+<position info="not_deleted" x="2711" y="0"/>
+</item>
+<item historyLabel="i2c.h" index="1">
+<position info="not_deleted" x="407" y="0"/>
+</item>
+<item historyLabel="i2c.c" index="0">
+<position info="not_deleted" x="2261" y="0"/>
+</item>
+<item historyLabel="compass.c" index="4">
+<position info="not_deleted" x="518" y="0"/>
+</item>
+<item historyLabel="usart.c" index="10">
+<position info="not_deleted" x="2625" y="0"/>
+</item>
+<item historyLabel="stm32f10x.h" index="6">
+<position info="not_deleted" x="59770" y="13"/>
+</item>
+<item historyLabel="usart.h" index="5">
+<position info="not_deleted" x="1099" y="0"/>
+</item>
+<item historyLabel="usart.c" index="10">
+<position info="not_deleted" x="2431" y="9"/>
+</item>
+<item historyLabel="usart.h" index="5">
+<position info="not_deleted" x="504" y="13"/>
+</item>
+<item historyLabel="i2c.h" index="1">
+<position info="not_deleted" x="321" y="0"/>
+</item>
+<item historyLabel="usart.c" index="10">
 <position info="not_deleted" x="2431" y="0"/>
 </item>
-<item historyLabel="Configuration" index="5"/>
-<item historyLabel="gps.c" index="0">
-<position info="not_deleted" x="2064" y="0"/>
+<item historyLabel="usart.h" index="5">
+<position info="not_deleted" x="519" y="0"/>
 </item>
-<item historyLabel="inthandler.c" index="6">
-<position info="not_deleted" x="637" y="0"/>
+<item historyLabel="i2c.h" index="1">
+<position info="not_deleted" x="389" y="0"/>
 </item>
-<item historyLabel="usart.c" index="7">
-<position info="not_deleted" x="1313" y="0"/>
+<item historyLabel="i2c.c" index="0">
+<position info="not_deleted" x="2396" y="13"/>
 </item>
-<item historyLabel="startup_stm32f10x_md.c" index="8">
-<position info="not_deleted" x="0" y="0"/>
+<item historyLabel="i2c.h" index="1">
+<position info="not_deleted" x="376" y="11"/>
 </item>
-<item historyLabel="main.c" index="9">
-<position info="not_deleted" x="494" y="0"/>
+<item historyLabel="i2c.c" index="0">
+<position info="not_deleted" x="2656" y="0"/>
 </item>
-<item historyLabel="inthandler.c" index="6">
-<position info="not_deleted" x="637" y="0"/>
+<item historyLabel="i2c.h" index="1">
+<position info="not_deleted" x="331" y="4"/>
 </item>
-<item historyLabel="usart.c" index="7">
-<position info="not_deleted" x="1313" y="0"/>
+<item historyLabel="compass.c" index="4">
+<position info="not_deleted" x="1011" y="4"/>
 </item>
-<item historyLabel="usart.c" index="7">
-<position info="not_deleted" x="1297" y="0"/>
+<item historyLabel="sysinit.c" index="7">
+<position info="not_deleted" x="4723" y="4"/>
 </item>
-<item historyLabel="usart.c" index="7">
-<position info="not_deleted" x="1362" y="0"/>
+<item historyLabel="compass.c" index="4">
+<position info="not_deleted" x="1011" y="4"/>
 </item>
-<item historyLabel="usart.c" index="7">
-<position info="not_deleted" x="1297" y="0"/>
+<item historyLabel="compass.c" index="4">
+<position info="not_deleted" x="969" y="0"/>
 </item>
-<item historyLabel="usart.c" index="7">
-<position info="not_deleted" x="1231" y="0"/>
+<item historyLabel="compass.c" index="4">
+<position info="not_deleted" x="1044" y="0"/>
 </item>
-<item historyLabel="usart.c" index="7">
-<position/>
+<item historyLabel="sysinit.c" index="7">
+<position info="not_deleted" x="4472" y="23"/>
 </item>
-<item historyLabel="inthandler.c" index="6">
-<position info="not_deleted" x="611" y="17"/>
+<item historyLabel="sysinit.c" index="7">
+<position info="not_deleted" x="5426" y="0"/>
 </item>
-<item historyLabel="usart.c" index="7">
-<position/>
-</item>
-<item historyLabel="main.c" index="9">
-<position info="not_deleted" x="309" y="0"/>
-</item>
-<item historyLabel="dev.c" index="10">
-<position info="not_deleted" x="419" y="0"/>
-</item>
-<item historyLabel="gps.c" index="0">
-<position info="not_deleted" x="2259" y="16"/>
-</item>
-<item historyLabel="usart.c" index="7">
-<position info="not_deleted" x="1714" y="0"/>
-</item>
-<item historyLabel="inthandler.c" index="6">
-<position info="not_deleted" x="647" y="0"/>
-</item>
-<item historyLabel="usart.c" index="7">
-<position info="not_deleted" x="1623" y="0"/>
-</item>
-<item historyLabel="main.c" index="9">
-<position info="not_deleted" x="309" y="0"/>
-</item>
-<item historyLabel="gps.c" index="0">
-<position info="not_deleted" x="2259" y="16"/>
-</item>
-<item historyLabel="usart.c" index="7">
-<position info="not_deleted" x="1415" y="0"/>
-</item>
-<item historyLabel="dev.c" index="10">
-<position info="not_deleted" x="419" y="0"/>
-</item>
-<item historyLabel="usart.c" index="7">
-<position info="not_deleted" x="1415" y="0"/>
-</item>
-<item historyLabel="dev.c" index="10">
-<position info="not_deleted" x="271" y="0"/>
-</item>
-<item historyLabel="usart.c" index="7">
-<position info="not_deleted" x="1415" y="0"/>
-</item>
-<item historyLabel="gps.c" index="0">
-<position info="not_deleted" x="950" y="10"/>
-</item>
-<item historyLabel="usart.c" index="7">
-<position info="not_deleted" x="1415" y="0"/>
-</item>
-<item historyLabel="usart.c" index="7">
-<position info="not_deleted" x="1489" y="0"/>
-</item>
-<item historyLabel="usart.c" index="7">
-<position info="not_deleted" x="1607" y="0"/>
-</item>
-<item historyLabel="usart.c" index="7">
-<position info="not_deleted" x="447" y="20"/>
-</item>
-<item historyLabel="usart.c" index="7">
-<position info="not_deleted" x="1498" y="0"/>
-</item>
-<item historyLabel="usart.c" index="7">
-<position info="not_deleted" x="1496" y="0"/>
-</item>
-<item historyLabel="usart.c" index="7">
-<position info="not_deleted" x="1608" y="0"/>
-</item>
-<item active="true" historyLabel="usart.c" index="7">
-<position info="not_deleted" x="447" y="20"/>
+<item active="true" historyLabel="gps_parser.c" index="12">
+<position info="not_deleted" x="1515" y="57"/>
 </item>
 </navigationHistory>
 <input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
@@ -463,37 +481,14 @@
 <actionBarAdvisor/>
 </window>
 <mruList>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="dev.c" tooltip="gps_tracker/imhere/dev/dev.c">
-<persistable path="/gps_tracker/imhere/dev/dev.c"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="startup_stm32f10x_md.c" tooltip="gps_tracker/cmsis_boot/startup/startup_stm32f10x_md.c">
-<persistable path="/gps_tracker/cmsis_boot/startup/startup_stm32f10x_md.c"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="usart.c" tooltip="gps_tracker/imhere/sys/usart.c">
-<persistable path="/gps_tracker/imhere/sys/usart.c"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="inthandler.c" tooltip="gps_tracker/imhere/sys/inthandler.c">
-<persistable path="/gps_tracker/imhere/sys/inthandler.c"/>
-</file>
-<file factoryID="org.coocox.builder.ui.persistent.PersistentElementFactory" id="org.coocox.builder.ui.editors.ConfigEditor" name="" tooltip="">
-<persistable>
-<org.coocox.builder.ui.editors.ConfigEditor/>
-</persistable>
-</file>
-<file factoryID="org.eclipse.cdt.ui.ExternalEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="ctype.h" tooltip="C:\GNU Tools ARM Embedded\4.8 2014q1\arm-none-eabi\include\ctype.h">
-<persistable path="C:\GNU Tools ARM Embedded\4.8 2014q1\arm-none-eabi\include\ctype.h" project="gps_tracker"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="printf.c" tooltip="gps_tracker/stdio/printf.c">
-<persistable path="/gps_tracker/stdio/printf.c"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="usart.h" tooltip="gps_tracker/imhere/sys/usart.h">
-<persistable path="/gps_tracker/imhere/sys/usart.h"/>
-</file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="gps_parser.c" tooltip="gps_tracker/imhere/data/gps_parser.c">
 <persistable path="/gps_tracker/imhere/data/gps_parser.c"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="gps_parser.h" tooltip="gps_tracker/imhere/data/gps_parser.h">
-<persistable path="/gps_tracker/imhere/data/gps_parser.h"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="sysinit.c" tooltip="gps_tracker/imhere/sys/sysinit.c">
+<persistable path="/gps_tracker/imhere/sys/sysinit.c"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="compass.c" tooltip="gps_tracker/imhere/dev/compass.c">
+<persistable path="/gps_tracker/imhere/dev/compass.c"/>
 </file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="gps.c" tooltip="gps_tracker/imhere/dev/gps.c">
 <persistable path="/gps_tracker/imhere/dev/gps.c"/>
@@ -501,14 +496,35 @@
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="gps.h" tooltip="gps_tracker/imhere/dev/gps.h">
 <persistable path="/gps_tracker/imhere/dev/gps.h"/>
 </file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="main.c" tooltip="gps_tracker/main.c">
+<persistable path="/gps_tracker/main.c"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="usart.c" tooltip="gps_tracker/imhere/sys/usart.c">
+<persistable path="/gps_tracker/imhere/sys/usart.c"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="usart.h" tooltip="gps_tracker/imhere/sys/usart.h">
+<persistable path="/gps_tracker/imhere/sys/usart.h"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="i2c.h" tooltip="gps_tracker/imhere/sys/i2c.h">
+<persistable path="/gps_tracker/imhere/sys/i2c.h"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="stm32f10x_i2c.h" tooltip="gps_tracker/stm_lib/inc/stm32f10x_i2c.h">
+<persistable path="/gps_tracker/stm_lib/inc/stm32f10x_i2c.h"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="i2c.c" tooltip="gps_tracker/imhere/sys/i2c.c">
+<persistable path="/gps_tracker/imhere/sys/i2c.c"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="stm32f10x.h" tooltip="gps_tracker/cmsis_boot/stm32f10x.h">
+<persistable path="/gps_tracker/cmsis_boot/stm32f10x.h"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="global.h" tooltip="gps_tracker/imhere/global.h">
+<persistable path="/gps_tracker/imhere/global.h"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="compass.h" tooltip="gps_tracker/imhere/dev/compass.h">
+<persistable path="/gps_tracker/imhere/dev/compass.h"/>
+</file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="dev.h" tooltip="gps_tracker/imhere/dev/dev.h">
 <persistable path="/gps_tracker/imhere/dev/dev.h"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="inthandler.h" tooltip="gps_tracker/imhere/sys/inthandler.h">
-<persistable path="/gps_tracker/imhere/sys/inthandler.h"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="sysinit.c" tooltip="gps_tracker/imhere/sys/sysinit.c">
-<persistable path="/gps_tracker/imhere/sys/sysinit.c"/>
 </file>
 </mruList>
 </workbench>

@@ -18,8 +18,8 @@ static int event_loop()
   int len;
 
   while (1) {
-    if ((len = gps->GetData(gps)) > 0) {
-      gps->Parser(gps);
+    if ((len = gps->UpdateData(gps)) > 0) {
+      gps->ProcessData(gps);
     }
   }
 
